@@ -1,0 +1,269 @@
+
+/*Footer*/
+
+.yougame{
+
+	color: #32b6ff;
+	font-family: Roboto;
+	font-weight: 700;
+	font-size: 20px;
+	padding: 5px;
+	
+}
+
+.secondary{
+
+	color: grey;
+}
+
+/*Header*/
+
+.colornav{
+
+	background-color: #294352;
+}
+
+.textonav{
+
+	font-family: Roboto;
+	font-weight: 500;
+	font-size: 20px;
+	color: white;
+}
+
+.textonav:hover{
+
+color: #32b6ff;
+
+}
+
+.dropdown-toggle[aria-expanded="true"] {
+    color: #32b6ff !important;
+}
+
+.listanav{
+
+	font-family: Roboto;
+	font-weight: 500;
+	font-size: 17px;
+	color: white;
+
+}
+
+.listanav:hover {
+    color: #32b6ff;
+    background-color: #294352;
+    
+}
+
+.btnnav{
+
+	border: none;
+	color: white;
+}
+
+.btnnav:hover{
+	
+	color: #32b6ff;
+	background-color: white;
+}
+
+.navbar {
+    transition: top 0.3s; 
+    position: fixed; 
+    width: 100%; 
+    z-index: 1000; 
+}
+
+.navbar.hide {
+    top: -100px; 
+}
+
+.navbar.show {
+    top: 0; 
+}
+
+/*Cuerpo*/
+
+
+#carouselExample {
+  z-index: 0;
+}
+
+
+.titulos{
+
+	font-family: Roboto;
+	text-align: center;
+	padding: 20px;
+	color:#32b6ff ;
+}
+
+.titulos2{
+
+	font-family: Roboto;
+	text-align: center;
+	padding: 20px;
+	color:#294352;
+}
+
+.titulos3{
+
+	font-family: Roboto;
+	text-align: left;
+	padding-top: 80px;
+	padding-left: 60px;
+	color:#294352;
+
+}
+
+.titulos4{
+	font-family: Roboto;
+	color:#294352;
+
+}
+
+.fondotitulo{
+
+	background-color: #EDEDED;
+
+	
+
+}
+
+.btncuerpo{
+
+	border: none;
+	color: #32b6ff;
+	font-size: 25px;
+}
+
+body{
+
+	font-family: Helvetica;
+
+
+}
+
+.carousel-item img {
+    height: 500px; 
+    object-fit: cover; 
+     
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+	width: 50px;
+    height: 50px;
+}
+
+.vertodo{
+
+	
+	margin-top: auto;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	
+   
+}
+
+.btnvertodo{
+
+	border: none;
+	background-color: transparent;
+	color: #294352;
+	font-family: Roboto;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.margen{
+
+	margin-left: 170px;
+}
+
+.card{
+
+	border: none;
+}
+
+.main-content{
+
+	padding-top: 70px;
+}
+
+/*Categorias*/
+
+
+.espaciadoproductos{
+
+	padding: 40px;
+}
+
+/*Producto*/
+
+.tituloprod{
+
+	font-family: Roboto;
+	text-align: center;
+	padding: 20px;
+	color:#294352;
+
+}
+
+.preciosproductos{
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 150px;
+}
+
+.espaciobordes{
+
+	margin-top: 40px;
+	margin-left: 40px
+}
+
+/*Perfil*/
+
+.perfildatos{
+
+	margin-top: 40px;
+	font-family: Roboto;
+	font-weight: bold;
+	
+}
+/*Login y carrito*/
+
+.cerrarsesion{
+
+	background-color: #32b6ff;
+	margin-right: 40px;
+	margin-top: 40px;
+}
+
+
+.comprar{
+
+	background-color: #32b6ff;
+	border-color:#32b6ff ;
+	
+}
+
+
+.loginresena{
+
+
+	  max-width: 900px;
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.form-container {
+      padding: 20px;
+      color:#32b6ff ;
+    }
+
+
